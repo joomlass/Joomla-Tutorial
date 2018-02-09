@@ -11,13 +11,15 @@
 7. 管理Joomla文章及分类
 8. 管理Joomla菜单
 9. 管理Joomla模块
-10. 管理Joomla模板
+10. 管理Joomla模板管理
 11. 管理Joomla插件
 12. 管理Joomla组件
-13. 管理Joomla用户
+13. 管理Joomla媒体文件
+14. 管理Joomla用户
 ## 高级用户教程
-14. Joomla多语言网站的设立
-15. Joomla整站备份及迁移
+1. Joomla多语言网站的设立
+2. Joomla扩展字段管理
+3. Joomla整站备份及迁移
 16. Joomla邮件发送系统
 17. Joomla编辑器的更换
 18. Joomla扩展管理
@@ -25,3 +27,8 @@
 20. Joomla的全局设置
 21. Joomla SEO管理
 22. Joomla模板样式定制
+23. T3-Framework架构模板
+24. Helix-Framework架构模板
+25. SP-Bulider页面构建器
+26. SC短代码结构
+27. 创建Joomla电商网站
