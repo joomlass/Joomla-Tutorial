@@ -2,20 +2,20 @@
 这是针对Joomla初学者定制的初学者使用教程，这个教程旨在为Joomla学员了解Joomla的结构、获取以及安装、管理使用。
 在这个教程中，无论您是Joomla初学者或是资深Joomla用户，通过本教程学习相信都能让你有所收获。尤其是对Joomla感兴趣的初学用户，本教程一定能够很好的让你成为Joomla高手，成功搭建自己的网站并做好日常管理。
 ## 课程设立：
-1. Joomla介绍
-2. 整理建站规划
-3. 获取Joomla
-4. 安装Joomla
-5. 认识安装后的Joomla网站
-6. 认识Joomla管理后台
-7. 管理Joomla文章及分类
-8. 管理Joomla菜单
-9. 管理Joomla模块
-10. 管理Joomla模板管理
-11. 管理Joomla插件
-12. 管理Joomla组件
-13. 管理Joomla媒体文件
-14. 管理Joomla用户
+1. [Joomla介绍](jieshao)
+2. [整理建站规划](plan)
+3. [获取Joomla](get)
+4. [安装Joomla](install)
+5. [认识Joomla网站](frontend)
+6. [认识Joomla管理后台](administration)
+7. [管理Joomla文章及分类](article)
+8. [管理Joomla菜单](menu)
+9. [管理Joomla模块](module)
+10. [管理Joomla模板](template)
+11. [管理Joomla插件](plugin)
+12. [管理Joomla组件](component)
+13. [管理Joomla媒体文件](images)
+14. [管理Joomla用户](user)
 ## 高级用户教程
 1. Joomla多语言网站的设立
 2. Joomla扩展字段管理
