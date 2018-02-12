@@ -133,13 +133,13 @@ Joomla在中国也受到越来越多人的关注与接触，但受到国内版�
 # 获取Joomla
 开始之前我们要获取Joomla! CMS。有多个方法可以获取到Joomla CMS开始你的建站工作。接下来我们通过几个简单的方法来获取Joomla，不用担心获取Joomla多数情况下是免费的。
 ## 方法一.通过Joomla.org网站下载最新的Joomla 
-打开我们的[下载中心]（https://www.joomlass.com/joomla-extension）或者[Joomla.org](https://downloads.joomla.org/zh-cn/)进行安装包下载。通过这个方法获取的是的是标准Joomla程序（是英文版，需要在安装Joomla后进行汉化包安装）。
-![https://www.joomlass.com/images/blog/2017/joomla/get-joomla1.png]
+打开我们的[下载中心](https://www.joomlass.com/joomla-extension）或者 [Joomla.org](https://downloads.joomla.org/zh-cn/)进行安装包下载。通过这个方法获取的是的是标准Joomla程序（是英文版，需要在安装Joomla后进行汉化包安装）。
+![下载Joomla](https://www.joomlass.com/images/blog/2017/joomla/get-joomla1.png)
 
 ## 方法二.通过购买Joomla商业模板来获取Joomla
 有很多Joomla模板生产团队会围绕Joomla定制很多精彩的模板样式，您可以通过这些模板服务团队的网站购买模板，并同时获得一套带模板的Joomla整站数据。我们推荐你通过这种方式开展Joomla的安装及学习。因为这些预装了模板的Joomla整站提供了大量的示范效果，可以让你很容易的进行网站搭建。比如[Joomlart.com](www.joomlart.com)、[yootheme.com](www.Yootheme.com)、[模板森林](https://themeforest.net/category/cms-themes/joomla)等中会有很多优秀Joomla模板可以购买，一般费用在300元人民币左右 
 
-！[https://www.joomlass.com/images/blog/2017/joomla/get-joomla2.png]
+！[模板森林](https://www.joomlass.com/images/blog/2017/joomla/get-joomla2.png)
 
 ## 方法三.通过其他渠道获取Joomla商业模板来获取Joomla
 您也可以在我们的下载中心获取商业模板进行安装后学习使用，您还可以在taobao或百度搜索Joomla免费模板进行其他渠道的获取。当然，这些渠道所获取的模板一般为“未授权”版（俗称盗版，盗版和正版技术上没什么区别，主要的区别是这类版本不是最新版本，而且无法获得作者的技术支持。）在保护作者知识产权的角度，建议大家通过原作者处进行购买，并享受作者的技术支持及定期版本更新服务。
